@@ -75,5 +75,5 @@ We use different features of tumer such as RADIUS,TEXTURE,PERIMETER,AREA,SMOOTHN
 ![image](https://user-images.githubusercontent.com/47801267/70300066-8b185500-181c-11ea-9e4e-eb76d1eaeec5.png)
 ![1_--FDKBYGmG5oSBGCjkQRSQ](https://user-images.githubusercontent.com/47801267/70300092-9f5c5200-181c-11ea-830f-40c93bce6781.gif)
 
-############Here we conclude that the Machine leaning model is able to classify tumers into malignant & Benign with 98% of accuracy
+##### Here we conclude that the Machine leaning model is able to classify tumers into malignant & Benign with 98% of accuracy
 
