@@ -57,6 +57,23 @@ We use different features of tumer such as RADIUS,TEXTURE,PERIMETER,AREA,SMOOTHN
 ![image](https://user-images.githubusercontent.com/47801267/70299569-3f18e080-181b-11ea-9acf-422f764d73bf.png)
 ![image](https://user-images.githubusercontent.com/47801267/70299359-b26e2280-181a-11ea-904f-a13a892d12aa.png)
 
+![image](https://user-images.githubusercontent.com/47801267/70299645-7d160480-181b-11ea-8d22-cd58f9edda24.png)
+![image](https://user-images.githubusercontent.com/47801267/70299680-9454f200-181b-11ea-9c73-ff3c9f400c66.png)
+![image](https://user-images.githubusercontent.com/47801267/70299685-98810f80-181b-11ea-8bd4-86e70f261676.png)
+![image](https://user-images.githubusercontent.com/47801267/70299719-b51d4780-181b-11ea-8652-0f214ac7e262.png)
+![image](https://user-images.githubusercontent.com/47801267/70299758-cc5c3500-181b-11ea-8c66-c0fe1c958776.png)
+![image](https://user-images.githubusercontent.com/47801267/70299772-d1b97f80-181b-11ea-8fc3-7c4a703d4ff3.png)
+![image](https://user-images.githubusercontent.com/47801267/70299789-dbdb7e00-181b-11ea-90f8-14a6e0a5b5da.png)
+![image](https://user-images.githubusercontent.com/47801267/70299795-df6f0500-181b-11ea-812a-67f68448efbb.png)
+![image](https://user-images.githubusercontent.com/47801267/70299819-f4e42f00-181b-11ea-9924-d5194a3751d7.png)
+![image](https://user-images.githubusercontent.com/47801267/70299837-0299b480-181c-11ea-901e-cbf30289af2e.png)
+![image](https://user-images.githubusercontent.com/47801267/70299847-07f6ff00-181c-11ea-8d9d-c5091e0279f8.png)
+![image](https://user-images.githubusercontent.com/47801267/70299889-26f59100-181c-11ea-8914-ef53e40e94da.png)
+![image](https://user-images.githubusercontent.com/47801267/70299963-5a382000-181c-11ea-8d92-d34e4f5ff6ad.png)
+![image](https://user-images.githubusercontent.com/47801267/70300036-7471fe00-181c-11ea-8c85-b98366944b06.png)
+![image](https://user-images.githubusercontent.com/47801267/70300040-776cee80-181c-11ea-9bde-cd8e83fd6987.png)
+![image](https://user-images.githubusercontent.com/47801267/70300066-8b185500-181c-11ea-9e4e-eb76d1eaeec5.png)
+![1_--FDKBYGmG5oSBGCjkQRSQ](https://user-images.githubusercontent.com/47801267/70300092-9f5c5200-181c-11ea-830f-40c93bce6781.gif)
 
-
+############Here we conclude that the Machine leaning model is able to classify tumers into malignant & Benign with 98% of accuracy
 
