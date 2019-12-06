@@ -34,3 +34,29 @@ We use different features of tumer such as RADIUS,TEXTURE,PERIMETER,AREA,SMOOTHN
 ![image](https://user-images.githubusercontent.com/47801267/70298967-7edec880-1819-11ea-8db6-d4ebb2ccc245.png)
 
 
+![image](https://user-images.githubusercontent.com/47801267/70299398-cc0f6a00-181a-11ea-80ff-a1e6c93ab859.png)
+![image](https://user-images.githubusercontent.com/47801267/70299261-691dd300-181a-11ea-947b-c5371347eacb.png)
+![image](https://user-images.githubusercontent.com/47801267/70299413-da5d8600-181a-11ea-8f00-704b78aef10f.png)
+![image](https://user-images.githubusercontent.com/47801267/70299274-720ea480-181a-11ea-9ecb-81e7ee26e60b.png)
+![image](https://user-images.githubusercontent.com/47801267/70299431-e77a7500-181a-11ea-90da-1da31b198c70.png)
+![image](https://user-images.githubusercontent.com/47801267/70299279-78048580-181a-11ea-9fdf-453c14ce9df3.png)
+![image](https://user-images.githubusercontent.com/47801267/70299457-f3663700-181a-11ea-8231-4575b9bd02bc.png)
+![image](https://user-images.githubusercontent.com/47801267/70299286-7d61d000-181a-11ea-8fde-b809fd3b297f.png)
+![image](https://user-images.githubusercontent.com/47801267/70299471-fc570880-181a-11ea-8cea-5e1a6d814daf.png)
+![image](https://user-images.githubusercontent.com/47801267/70299292-82268400-181a-11ea-8e85-d7a1863e3b55.png)
+![image](https://user-images.githubusercontent.com/47801267/70299484-06790700-181b-11ea-81a0-0d9a2411be0d.png)
+![image](https://user-images.githubusercontent.com/47801267/70299333-99fe0800-181a-11ea-9362-b7beb49f41de.png)
+![image](https://user-images.githubusercontent.com/47801267/70299502-11339c00-181b-11ea-9d8c-6bd2e90d4fe0.png)
+![image](https://user-images.githubusercontent.com/47801267/70299339-a08c7f80-181a-11ea-8572-92bdc2b5dd8e.png)
+![image](https://user-images.githubusercontent.com/47801267/70299516-1db7f480-181b-11ea-8d13-9fd8ac78d6c4.png)
+![image](https://user-images.githubusercontent.com/47801267/70299344-a4b89d00-181a-11ea-9603-71987e222419.png)
+![image](https://user-images.githubusercontent.com/47801267/70299532-28728980-181b-11ea-88eb-dd6f404db2c9.png)
+![image](https://user-images.githubusercontent.com/47801267/70299348-a97d5100-181a-11ea-81c3-ec92392a1a9b.png)
+![image](https://user-images.githubusercontent.com/47801267/70299550-332d1e80-181b-11ea-8174-9fc0684a36c3.png)
+![image](https://user-images.githubusercontent.com/47801267/70299349-ad10d800-181a-11ea-984b-777c36c845c2.png)
+![image](https://user-images.githubusercontent.com/47801267/70299569-3f18e080-181b-11ea-9acf-422f764d73bf.png)
+![image](https://user-images.githubusercontent.com/47801267/70299359-b26e2280-181a-11ea-904f-a13a892d12aa.png)
+
+
+
+
