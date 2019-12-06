@@ -15,4 +15,6 @@ The Benign Means to the Non-Presence of cancer in the patient.
 We will use SVM-classifier to classify the type of cancer.
 We use different features of tumer such as RADIUS,TEXTURE,PERIMETER,AREA,SMOOTHNESS
 
-### LIBRARIES
+
+![image](https://user-images.githubusercontent.com/47801267/70298790-d16bb500-1818-11ea-9875-e88413a16372.png)
+![image](https://user-images.githubusercontent.com/47801267/70298854-1b549b00-1819-11ea-9a98-25bba3481fae.png)
